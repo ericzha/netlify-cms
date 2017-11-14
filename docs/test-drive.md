@@ -26,3 +26,5 @@ Try adding and editing posts, or changing the content of the Products page. When
 - If you’d like to learn more about how it all works, check out the [Intro](/docs/intro). 
 - To see how to integrate Netlify CMS into an existing project, go to the [Quick Start](/docs/quick-start).
 - If you’d like to change how users log in to your site, read up on [Netlify Identity service](https://www.netlify.com/docs/identity).
+
+### by me.
